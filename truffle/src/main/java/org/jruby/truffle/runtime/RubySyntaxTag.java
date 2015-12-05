@@ -9,7 +9,7 @@
  */
 package org.jruby.truffle.runtime;
 
-import com.oracle.truffle.api.instrument.SyntaxTag;
+import com.oracle.truffle.api.instrumentation.SyntaxTag;
 
 /**
  * Syntax tags for Ruby-language statements. The set of tags are derived from the events provided for the
